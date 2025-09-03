@@ -23,4 +23,7 @@ A simple and responsive **HTML & CSS project** showcasing a food menu gallery wi
    git clone https://github.com/PriyankaB-11/food-menu-gallery.git
 2. Open index.html in your browser.
 
+🌐 Live Demo
+👉 Click here to view the website:  https://priyankab-11.github.io/food-menu-gallery/
+
 👩‍💻 Developed with ❤️ by Priyanka B
